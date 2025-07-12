@@ -1,1 +1,1 @@
-# Leetcode-Solution_Celabal-Technology-
+Problem solved leetcode 
